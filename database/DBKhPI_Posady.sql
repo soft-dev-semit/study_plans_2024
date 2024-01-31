@@ -4,7 +4,7 @@ INSERT INTO prepod_dolghnost (dolghn_id, dolghn_name, kat_sotr) VALUES
   (2, 'старший викладач', 1),
   (3, 'доцент', 1),
   (4, 'професор', 1),
-  (0, 'не визначена', 0),
+  (999, 'не визначена', 0),
   (6, 'Викладач', 1);
 
 INSERT INTO prepod_dolghnost (dolghn_id, dolghn_name, kat_sotr) VALUES
